@@ -1,0 +1,1 @@
+Medium doesn't currently offer a way to retrieve a user's posts via an API call, so implementing functionality using a user's RSS / JSON feed is a great alternative for basic tasks. You can find your feed by going to https://medium.com/@username/latest?format=json
